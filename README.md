@@ -2,7 +2,6 @@
 
 **Software Engineer | AI, Full-Stack & DevOps**
 
-> 🟢 **Actively seeking Summer 2026 internships and part-time contract roles**
 
 I build AI-driven products and scalable full-stack applications. Currently pursuing my **M.Sc. in Applied Computing at Wilfrid Laurier University** after earning a **B.Sc. (Hons) in Artificial Intelligence and Computer Science from the University of Birmingham**.
 
